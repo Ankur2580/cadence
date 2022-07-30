@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23474940132",
+    "project_id": "cadence-app-e7b7d",
+    "storage_bucket": "cadence-app-e7b7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23474940132:android:8b2d871c38517aea1164f1",
+        "android_client_info": {
+          "package_name": "com.cadence.evstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23474940132-u8nfpfuihnmndvdlrlesm03ir0d6tdjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6PbXnMUqKgi2cBAPYeQeJ3k2s92IQMas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23474940132-u8nfpfuihnmndvdlrlesm03ir0d6tdjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
